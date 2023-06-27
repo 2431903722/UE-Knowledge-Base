@@ -4,20 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "138ec166a7350504",
+        "id": "7f99a15ddce6bfde",
         "type": "tabs",
+        "dimension": 88.05256869772998,
         "children": [
           {
-            "id": "cafd06e4283626e3",
+            "id": "19b91194571b3e84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "小学期ALS学习相关/ALS概况.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
-            }
+            },
+            "group": "caf450be3ea4331d"
+          }
+        ]
+      },
+      {
+        "id": "587ef47b9665d561",
+        "type": "tabs",
+        "dimension": 11.947431302270012,
+        "children": [
+          {
+            "id": "b52b16b56b5ab905",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "小学期ALS学习相关/ALS概况.md"
+              }
+            },
+            "group": "caf450be3ea4331d"
           }
         ]
       }
@@ -69,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "c224baeeeab4103d",
@@ -129,7 +149,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,6 +159,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -146,9 +170,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cafd06e4283626e3",
+  "active": "19b91194571b3e84",
   "lastOpenFiles": [
     "小学期ALS学习相关/ALS概况.md",
+    "202306271324.md",
+    "未命名.canvas",
+    "Mind.md",
     "ALS立项.md",
     "小学期ALS学习相关"
   ]
