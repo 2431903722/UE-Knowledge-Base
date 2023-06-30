@@ -63,7 +63,7 @@ GAMES104
 视频链接：
 [虚幻4（UE4） 动画技术 深入浅出 高级运动系统_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV12f4y1r71N/?spm_id_from=333.337.search-card.all.click&vd_source=be60f91e9b2c7b58bf53744bba3f3b68)
 
-# 知乎的ALS介绍文章
+# 相关文章
 
 [UE4 ALS AdvancedLocomotionSystem v4 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/367306545)
 这篇文章介绍类ALS的一些基本使用思路，例如其ALS本身做得就挺好，所以定制化比较差，利用ALS就是让它和我们自己的动作融合，关键就在于融合的权值
@@ -82,3 +82,17 @@ ALS是一个蓝图项目，性能比较差，但是我没看过C，对于我应�
 这是一个系列文章的开头，其余部分没看
 
 [UE4 Advanced Locomotion System V4学习笔记01 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/159646345)
+
+[在虚幻引擎中为角色和对象添加动画 | 虚幻引擎5.1文档 (unrealengine.com)](https://docs.unrealengine.com/5.1/zh-CN/animating-characters-and-objects-in-unreal-engine/)
+典中点的虚幻文档
+
+[第一章 动画与运动系统 (wolai.com)](https://www.wolai.com/lunarmaxim/8AfT5Ku1McxZZ2mWPXVjNP)
+月铭给的动画书
+
+[UE4/5 开发教程 (notion.site)](https://julyjuly233.notion.site/julyjuly233/UE4-5-ab1a06e40c04492cb3d858c32b398af7)
+卜凡的笔记
+
+# 关于ALS的前置知识
+
+UE蓝图基础
+AnimCurve，AnimNotify，动画蓝图，状态机等动画相关知识
